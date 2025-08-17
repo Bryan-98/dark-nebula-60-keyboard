@@ -1,12 +1,17 @@
 # Dark Nebula 60 percent keyboard
+
+### Top View
 <img width="2364" height="1298" alt="keyboard_60_rgb_top_view" src="https://github.com/user-attachments/assets/68288403-dc72-4402-99fe-a67a7f50ea9d" />
 
 Custom rgb 60 percent keaybaord based on the atmega32u4 microcontroller.
+
 > [!NOTE]
 > Atmega32u4 will need to have flaah it's bootlader before use.
 > Use an AVR ISP Programmer such as [HiLetgo USBTiny](https://www.amazon.com/dp/B01CZVZ1XM?ref=ppx_yo2ov_dt_b_fed_asin_title) or an Arduino UNO.
 
 ## Features
+### Bottom View
+
 <img width="2364" height="1298" alt="keyboard_60_rgb_bottom_view" src="https://github.com/user-attachments/assets/d8acfc2f-16f7-4aff-9cf5-1c6a93c624cd" />
 
 * Keyboard compatible with QMK Firmware.
